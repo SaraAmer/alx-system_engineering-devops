@@ -1,3 +1,2 @@
 #!/bin/bash
- chgrp -R staff .
- chown -R vincent .
+  chown -R vincent :staff .
